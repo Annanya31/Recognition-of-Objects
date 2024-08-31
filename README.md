@@ -1,1 +1,2 @@
 # Recognition-of-Objects
+This project focuses on building a deep learning model to recognize objects, a collection of images for training machine learning and computer vision algorithms. The process involves importing necessary libraries (TensorFlow, Keras, etc.), loading and preprocessing the data through normalization and one-hot encoding, and then creating the model by sequentially adding layers. The model is compiled, trained, and validated to predict and classify objects accurately.
